@@ -1,1 +1,1 @@
-https://github.com/Feliks1983/react-project.git
+https://feliks1983.github.io/react-project/
